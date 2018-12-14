@@ -16,7 +16,7 @@ http://www.circuitbasics.com/build-a-great-sounding-audio-amplifier-with-bass-bo
 * 10K potmeter
 * 9V clip + 9V batteri ELLER adaptor
 
-INDSÆT BILLEDE
+![](https://github.com/DDlabAU/3DPrinter/blob/master/Billeder/02.png)
 
 
 Hvis du ikke kan finde tingene i labbet, så spørg en ansat.
