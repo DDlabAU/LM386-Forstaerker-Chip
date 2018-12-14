@@ -25,13 +25,13 @@ LM386 chippen er hovedsageligt en audio amplifier, men kan bruges til flere fors
 Der er en indbygget funktion til både volume og bass boost, skulle man have lyst til at udforske det mere.
 Pinout’et for chippen ser således ud:
 
-INDSÆT BILLEDE
-
+![](https://github.com/DDlabAU/LM386-Forstaerker-Chip/blob/master/Billeder/Skærmbillede 2018-11-09 kl. 14.36.53.png
+)
 
 Når du har fundet alle de ting du skal bruge skal vi lave følgende setup:
 
 
-INDSÆT BILLEDE
+![](https://github.com/DDlabAU/LM386-Forstaerker-Chip/blob/master/Billeder/LM386-Audio-Amplifier-Minimal-With-Star-Ground-NEW-NEW-1024x792.png)
 
 
 
