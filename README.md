@@ -78,6 +78,3 @@ Dette kan du tjekke ved at se på det indhak der er i den ene side.
 
 Når du finder kondensatorerne i RAKU-skabet, kan du bruge modellen ved siden af
 til at se hvordan de forskellige enheder forholder sig til hinanden.
-
-
-Hvis du vil se hvordan det kan bygges kan du følge med i denne video:
