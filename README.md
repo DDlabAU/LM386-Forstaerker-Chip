@@ -1,5 +1,5 @@
 
-Guide til Lyd og Interaktion - Pre-amp & Smokey Amp
+# Guide til Lyd og Interaktion - Pre-amp & Smokey Amp
 
 ### Til at bygge det første setup skal i bruge følgende:
 * 2x 47 uF Kondensator
