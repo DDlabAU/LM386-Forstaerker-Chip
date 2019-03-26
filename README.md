@@ -12,7 +12,7 @@ Guide til Lyd og Interaktion - Pre-amp & Smokey Amp
 Version 2:
 * Erstat Højtaler med Transducer
 
-![](SmokeyAmp_bb.png)
+![](https://github.com/DDlabAU/LM386-Forstaerker-Chip/blob/master/Billeder/SmokeyAmp_bb.png)
 
 
 
@@ -25,7 +25,7 @@ Version 2:
 * 9v Batteri
 * Højtaler/Output
 
-![](preampsetup.png)
+![](https://github.com/DDlabAU/LM386-Forstaerker-Chip/blob/master/Billeder/preampsetup.png)
 
 
 
