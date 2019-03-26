@@ -1,4 +1,37 @@
-# Denne guide er i store træk baseret på en anden guide som kan findes her:
+
+Guide til Lyd og Interaktion - Pre-amp & Smokey Amp
+
+### Til at bygge det første setup skal i bruge følgende:
+* 2x 47 uF Kondensator
+* 1x Mini jack stick / andet input
+* 1x LM386
+* Jumpcables
+* 9v Batteri
+* Højtaler/Output
+
+Version 2:
+* Erstat Højtaler med Transducer
+
+![](SmokeyAmp_bb.png)
+
+
+
+### I det andet setup, laver vi en Pre-Amp:
+* 1x 100 uF Kondensator
+* 1x 1 uF Kodensator
+* 1x Piezo
+* 1x LM386
+* Jumpcables
+* 9v Batteri
+* Højtaler/Output
+
+![](preampsetup.png)
+
+
+
+
+# Amp med Volume control
+## Denne guide er i store træk baseret på en anden guide som kan findes her:
 http://www.circuitbasics.com/build-a-great-sounding-audio-amplifier-with-bass-boost-from-the-lm386/
 
 
@@ -48,6 +81,3 @@ til at se hvordan de forskellige enheder forholder sig til hinanden.
 
 
 Hvis du vil se hvordan det kan bygges kan du følge med i denne video:
-
-
-INDSÆT VIDEO
