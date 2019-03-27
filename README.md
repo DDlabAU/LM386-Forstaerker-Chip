@@ -12,7 +12,7 @@
 Version 2:
 * Erstat Højtaler med Transducer
 
-![](https://github.com/DDlabAU/LM386-Forstaerker-Chip/blob/master/Billeder/SmokeyAmp_bb.png)
+![](https://github.com/DDlabAU/LM386-Forstaerker-Chip/blob/master/Billeder/smokeyamp.png)
 
 
 
@@ -25,7 +25,7 @@ Version 2:
 * 9v Batteri
 * Højtaler/Output
 
-![](https://github.com/DDlabAU/LM386-Forstaerker-Chip/blob/master/Billeder/preampsetup.png)
+![](https://github.com/DDlabAU/LM386-Forstaerker-Chip/blob/master/Billeder/preamp.png)
 
 
 
