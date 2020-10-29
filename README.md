@@ -18,7 +18,7 @@ Version 2:
 
 ### I det andet setup, laver vi en Pre-Amp:
 * 1x 100 uF Kondensator
-* 1x 1 uF Kodensator
+* 1x 1 uF Kondensator
 * 1x Piezo
 * 1x LM386
 * Jumpcables
